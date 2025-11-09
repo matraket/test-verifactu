@@ -8,11 +8,13 @@ Este repositorio contiene ejemplos y pruebas relacionadas con la implementación
 
 ## 📋 Características
 
-- ✅ Validación de datos
+- ✅ Validación de datos en tiempo real
 - 🔐 Autenticación y autorización
 - 📊 Generación de reportes
 - 🌐 Integración con APIs externas
 - 💾 Gestión de base de datos
+- 🔔 Sistema de notificaciones
+- 📱 Responsive design
 
 ## 🛠️ Tecnologías
 
