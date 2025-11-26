@@ -1,0 +1,23 @@
+# Documentacion interna
+/DOC
+
+# Archivo de configuración con credenciales (sensible)
+.env
+ini.conf
+
+# Logs
+/logs
+*.log
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos temporales de sistema
+*.tmp
+*.temp
+~*
+
+# Scripts generados automáticamente por el deploy
+git-update.ps1
